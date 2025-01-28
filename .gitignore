@@ -1,0 +1,19 @@
+# Ignore virtual environments
+myenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore VSCode settings folder (if using VSCode)
+.vscode/
+
+# Ignore other system files
+Thumbs.db
